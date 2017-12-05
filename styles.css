@@ -12,3 +12,13 @@ h1,h2,h3,h4,h5,h6 {
 .class-list {
   list-style-type: square;
 }
+.item {
+  border: 1px solid black;
+}
+.even {
+  background-color: grey;
+}
+.odd {
+  background-color: black;
+  color: white;
+}
